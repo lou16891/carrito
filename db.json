@@ -28,11 +28,5 @@
     "id": 5,
     "title": "Mango",
     "thumbnailUrl": "https://picsum.photos/id/40/600"
-  },
-  {
-    "precio": 150,
-    "id": 6,
-    "title": "Chela",
-    "thumbnailUrl": "https://picsum.photos/id/50/600"
   }
 ]
