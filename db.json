@@ -22,11 +22,5 @@
     "id": 4,
     "title": "Sandía",
     "thumbnailUrl": "https://picsum.photos/id/30/600"
-  },
-  {
-    "precio": 10,
-    "id": 5,
-    "title": "Mango",
-    "thumbnailUrl": "https://picsum.photos/id/40/600"
   }
 ]
